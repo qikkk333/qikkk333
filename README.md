@@ -71,7 +71,7 @@ The plan is simple:
 ### What I believe
 
 ```python
-philosophy = {
+ what i think= {
     "on_learning":  "Read the paper. Build it. Break it. Fix it.",
     "on_shortcuts": "There are none. Karpathy typed every line. So do I.",
     "on_the_goal":  "Not to use AI. To understand it deeply enough to shape it.",
