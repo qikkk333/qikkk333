@@ -18,11 +18,11 @@
 
 Final-year B.Tech student from **Kerala, India.**
 
-I'm building toward becoming a serious **LLM engineer and AI researcher** — not someone who wraps APIs, but someone who understands what's happening inside the model at every layer.
+I'm building toward becoming a serious **LLM engineer and AI researcher** — not someone who wraps APIs, but someone who atleast understands what's happening inside the model at every layer.
 
 - 🧠 Building transformers from scratch in raw PyTorch
 - 🔬 Interested in model architecture, fine-tuning, and alignment
-- 📍 Thiruvananthapuram, Kerala
+- 📍 Thodupuzha, Kerala
 - 🐱 Have cats
 
 <br clear="right"/>
